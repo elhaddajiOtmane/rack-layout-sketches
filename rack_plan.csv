@@ -1,0 +1,4 @@
+asset_id,device,first_u,height_u,notes
+SW-01,Simulated network switch,11,1,PLANNED
+PP-01,Simulated patch panel,12,1,PLANNED
+SRV-01,Simulated server,8,2,PLANNED
